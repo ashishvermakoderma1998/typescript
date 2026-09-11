@@ -1,0 +1,9 @@
+var value:any="Ashish";
+value=100;
+
+var value1:unknown='ashish';
+value1=['Shivam'];
+value1={};
+value1="Vikash";
+if(typeof value1=='string')
+    console.log(value1.toUpperCase());
