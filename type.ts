@@ -1,7 +1,7 @@
 
 type DataType={name:string,email:string};
 
-// ---------extend ke liye kewal interface use kr interface pe union nahi laga sakte hai ---------
+// ---------extend  ke liye kewal interface use kr interface pe union nahi laga sakte hai ---------
 e
 interface a {name:string};
 interface b extends a {email:string};
