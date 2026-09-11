@@ -12,7 +12,7 @@ type d = {email:string};
 type e = c | d;
 
 var empData:DataType={
-    name:'Ashi',
+    name:'Ashis',
     email:"ashish@gmail.com"
 }
 
