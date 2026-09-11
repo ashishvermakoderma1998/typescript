@@ -13,7 +13,7 @@ type e = c | d;
 
 var empData:DataType={
     name:'Ashish',
-    email:"ashishkr@gmail.com"
+    email:"ashishkrv@gmail.com"
 }
 
 var studentDatas:DataType={
