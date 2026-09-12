@@ -28,6 +28,6 @@ var product = new Product("vivo",15000,101);
 product.addToCart();
 console.log(product.buyProduct());
 
-var product = new Product("Iphone",50000,102);
+var product = new Product("Iphone",55000,102);
 product.addToCart();
 console.log(product.buyProduct());
