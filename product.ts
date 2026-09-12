@@ -24,7 +24,7 @@ buyProduct(){
 }
 }
 
-var product = new Product("vivo",16000,101);
+var product = new Product("vivo",26000,101);
 product.addToCart();
 console.log(product.buyProduct());
 
