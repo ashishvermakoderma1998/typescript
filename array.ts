@@ -6,6 +6,6 @@ students.push("Sangita");
 console.log(students);
 
 var collegeName:ReadonlyArray<string>=["J J college","Commerce College", "Basukala ITI"];
-// collegeName.push("markha college");
+// collegeName.push("markham college");
 console.log(collegeName);
 
