@@ -24,6 +24,7 @@ buyProduct(){
 }
 }
 
+
 var product = new Product("Ai plus",26000,101);
 product.addToCart();
 console.log(product.buyProduct());
