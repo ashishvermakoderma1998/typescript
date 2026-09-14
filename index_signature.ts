@@ -12,6 +12,6 @@ var userData7={
     marks:55,
     age:34,
     semester:4,
-    name:"Na"
+    name:"Nar"
 }
 
