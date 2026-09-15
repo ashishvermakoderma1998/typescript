@@ -1,7 +1,7 @@
 "use strict";
 var value = "Ashish";
 value = 100;
-var value1 = 'Kes';
+var value1 = 'Kesh';
 value1 = ['Shivam'];
 value1 = {};
 value1 = "Vikash";
